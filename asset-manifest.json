@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RoloDelihome/static/css/main.962572bd.chunk.css",
+    "main.js": "/RoloDelihome/static/js/main.44ef4a46.chunk.js",
+    "main.js.map": "/RoloDelihome/static/js/main.44ef4a46.chunk.js.map",
+    "runtime-main.js": "/RoloDelihome/static/js/runtime-main.ec96bd7a.js",
+    "runtime-main.js.map": "/RoloDelihome/static/js/runtime-main.ec96bd7a.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/RoloDelihome/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.75657252.chunk.js": "/RoloDelihome/static/js/2.75657252.chunk.js",
+    "static/js/2.75657252.chunk.js.map": "/RoloDelihome/static/js/2.75657252.chunk.js.map",
+    "index.html": "/RoloDelihome/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/RoloDelihome/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.962572bd.chunk.css.map": "/RoloDelihome/static/css/main.962572bd.chunk.css.map",
+    "static/js/2.75657252.chunk.js.LICENSE.txt": "/RoloDelihome/static/js/2.75657252.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec96bd7a.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.75657252.chunk.js",
+    "static/css/main.962572bd.chunk.css",
+    "static/js/main.44ef4a46.chunk.js"
+  ]
+}
